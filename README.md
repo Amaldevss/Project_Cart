@@ -73,5 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Images
 
-![Screenshot (275)](https://github.com/user-attachments/assets/8b53910c-c673-4dea-9fd2-19dc9815a7f6)
+1
+![Screenshot (275)](https://github.com/user-attachments/assets/6aa98200-730d-498b-a143-636a44c9afc8)
+
+
+2
+![Screenshot (274)](https://github.com/user-attachments/assets/bc280360-d215-459a-ba58-3f4586ee8308)
+
+
 
